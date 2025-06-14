@@ -1,6 +1,6 @@
 <h1>baobao</h1>
 
-I’m Taiwanese student:
+I’m Taiwanese developer:
 
 ![yuxue1213's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuxue1213&theme=tokyonight&show_icons=true)
 
