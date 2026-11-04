@@ -1,6 +1,10 @@
 <h1>baobao</h1>
 
-I’m Taiwanese developer:
+👋 Hi, I’m a Taiwanese developer.
+
+- 💻 I build web applications across the full stack — from React and Tailwind CSS on the front end to Laravel, Django and Flask on the back end.
+- ☁️ I deploy and run projects on AWS and Google Cloud.
+- 🌱 Always learning new tools and improving my craft.
 
 ![yuxue1213's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuxue1213&theme=tokyonight&show_icons=true)
 
@@ -26,7 +30,7 @@ I’m Taiwanese developer:
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/viiining)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/yuxue1213)
 
 
 ---
